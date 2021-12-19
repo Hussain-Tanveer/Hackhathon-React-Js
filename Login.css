@@ -1,0 +1,11 @@
+.head-logo img{
+    width: 180px;
+    /* height: 150px; */
+    margin-left: 40px;
+}
+.logo-sec{
+    background-color: rgb(245, 245, 245);
+}
+.strong-head{
+    color: rgb(17, 115, 180);
+}
